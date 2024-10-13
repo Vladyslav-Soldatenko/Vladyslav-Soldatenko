@@ -1,9 +1,11 @@
 # 💫 About Me:
 👋 Hi there! I’m a Software Engineer with 3 years of experience, specializing in TypeScript and React for front-end development, as well as Java and Spring for back-end solutions. I also have experience as an Automation Quality Assurance engineer using Java and Selenium, which enhances my ability to deliver high-quality software.
 
-💼 I have led front-end teams of 3-5 developers, focusing on collaboration and efficient delivery. Additionally, I've conducted over 30 technical interviews, playing a key role in building strong engineering teams.
+🌟 I have led front-end teams of 3-5 developers, focusing on collaboration and efficient delivery. Additionally, I've conducted over 30 technical interviews, playing a key role in building strong engineering teams.
 
 ☁️ I hold an AWS Developer Associate certification, equipping me with the skills to design and deploy scalable applications in the cloud.
+
+💼 Currently working at [EPAM](https://www.epam.com/)
 
 📫 Let’s connect! I’m open to discussions about collaboration and new ideas.
 
